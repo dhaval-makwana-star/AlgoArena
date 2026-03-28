@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$USER_HOME$/Downloads/flutter_windows_3.35.1-stable/flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../flutterdev/sdk/flutter" vcs="Git" />
+  </component>
+</project>
