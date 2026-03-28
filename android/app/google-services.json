@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "186030171194",
+    "project_id": "algoarena-f85d0",
+    "storage_bucket": "algoarena-f85d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186030171194:android:a4d613f9e325a0e2320103",
+        "android_client_info": {
+          "package_name": "com.example.algoarenaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186030171194-cr3she6n8lk0ak5e8gltei8jd48bcnvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.algoarenaa",
+            "certificate_hash": "0321835b33eb7a8c9d59c9ddff3ec14a04e2d994"
+          }
+        },
+        {
+          "client_id": "186030171194-ah4igfc5iqmasjrl0479m4ols0g48r0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7pGgqJBYDhbMeqR-N8PJovMOl8fBEw4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186030171194-ah4igfc5iqmasjrl0479m4ols0g48r0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
